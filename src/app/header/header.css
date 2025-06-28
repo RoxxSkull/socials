@@ -1,0 +1,18 @@
+.profilePic {
+  border-radius: 100px;
+  height: 200px;
+}
+
+.headerContainer {
+  padding-top: 100px;
+  text-align: center;
+}
+
+.profileName {
+  font-size: 18pt;
+}
+
+p {
+  font-weight: bold;
+  color: #ffffff;
+}
